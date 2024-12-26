@@ -2,7 +2,7 @@
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace _qsLogCleaner;
+namespace qsLogCleaner;
 
 class Program
 {
